@@ -1,2 +1,2 @@
-# openrola
-Open Robotics Laboratory Automation
+# lab automation
+Software package for laboratory automation
